@@ -1,1 +1,5 @@
-../../../../.git/annex/objects/qP/74/MD5E-s223--3ff5ca458e8ac043aba79897dd083d40/MD5E-s223--3ff5ca458e8ac043aba79897dd083d40
+WARNING (03/05/22 23:15:44): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4120771.hostlist.HHXUhsH8 to get hosts
+starting job on c140-212
+starting job on c140-214
+starting job on c152-133
